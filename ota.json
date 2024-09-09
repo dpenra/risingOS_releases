@@ -2,12 +2,12 @@
 {
   "response": [
     {
-      "datetime": 1725560100,
-      "filename": "lineage_sunny-ota.zip",
+      "datetime": 1725819300,
+      "filename": "RisingOS-5.2-FINAL-EOL-20240909-CORE-COMMUNITY-sunny-ota.zip",
       "id": "1234567890",
       "romtype": "UNOFFICIAL",
-      "size": 2329570653,
-      "url": "xyz",
+      "size": 2329307312,
+      "url": "sftp://dpenra@frs.sourceforge.net/home/pfs/project/risingos-sunny/2024-09-06/RisingOS-5.2-FINAL-EOL-20240909-CORE-COMMUNITY-sunny-ota.zip",
       "version": "5.2"
     }
   ]
