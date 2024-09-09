@@ -1,14 +1,28 @@
-
 {
-  "response": [
-    {
-      "datetime": 1725861715,
-      "filename": "RisingOS-5.2-FINAL-EOL-20240909-CORE-COMMUNITY-sunny-ota.zip",
-      "id": "1234567890",
-      "romtype": "UNOFFICIAL",
-      "size": 2329307312,
-      "url": "https://sourceforge.net/projects/risingos-sunny/files/2024-09-06/RisingOS-5.2-FINAL-EOL-20240909-CORE-COMMUNITY-sunny-ota.zip/download",
-      "version": "5.2-Lyonesse"
-    }
-  ]
+	"response": [
+		{
+			"maintainer": "dpenra",
+			"oem": "Xiaomi",
+			"device": "Redmi Note 10",
+			"filename": "RisingOS-5.2-FINAL-EOL-20240909-CORE-COMMUNITY-sunny-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-sunny/files/2024-09-06/RisingOS-5.2-FINAL-EOL-20240909-CORE-COMMUNITY-sunny-ota.zip/download",
+			"timestamp": 1725861715,
+			"md5": "5e4955bf6d8d75ee5fd6052cf5359dfa",
+			"sha256": "0a4d0571176dc61d3ba72135480eb48bda079b37cfee2595a4e3c19d9bfa0a70",
+			"size": 2329307312,
+			"version": "5.2-Lyonesse",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
 }
