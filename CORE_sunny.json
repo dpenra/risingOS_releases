@@ -7,7 +7,7 @@
       "id": "1234567890",
       "romtype": "UNOFFICIAL",
       "size": 2329307312,
-      "url": "sftp://dpenra@frs.sourceforge.net/home/pfs/project/risingos-sunny/2024-09-06/RisingOS-5.2-FINAL-EOL-20240909-CORE-COMMUNITY-sunny-ota.zip/download",
+      "url": "https://sourceforge.net/projects/risingos-sunny/files/2024-09-06/RisingOS-5.2-FINAL-EOL-20240909-CORE-COMMUNITY-sunny-ota.zip/download",
       "version": "5.2-Lyonesse"
     }
   ]
