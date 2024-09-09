@@ -1,0 +1,14 @@
+
+{
+  "response": [
+    {
+      "datetime": 1725560100,
+      "filename": "lineage_sunny-ota.zip",
+      "id": "1234567890",
+      "romtype": "UNOFFICIAL",
+      "size": 2329570653,
+      "url": "xyz",
+      "version": "5.2"
+    }
+  ]
+}
