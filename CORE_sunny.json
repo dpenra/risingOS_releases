@@ -3,9 +3,9 @@
 		{
 			"maintainer": "",
 			"oem": "",
-			"device": "https://sourceforge.net/projects/risingos-sunny/files/2024-09-06/RisingOS-5.2-FINAL-EOL-20240909-CORE-COMMUNITY-sunny-ota.zip/download",
+			"device": "",
 			"filename": "RisingOS-5.2-FINAL-EOL-20240909-CORE-COMMUNITY-sunny-ota.zip",
-			"download": "",
+			"download": "https://sourceforge.net/projects/risingos-sunny/files/2024-09-06/RisingOS-5.2-FINAL-EOL-20240909-CORE-COMMUNITY-sunny-ota.zip/download",
 			"timestamp": 1725874444,
 			"md5": "8fee8204c3d0e5b9340457c7788c6b68",
 			"sha256": "8584c268c3af4bdf95b30d2e186c38fb746230aca695da23cd97748858fc7395",
