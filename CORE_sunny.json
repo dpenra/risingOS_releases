@@ -16,11 +16,11 @@
 			"gapps": "",
 			"firmware": "https://t.me/rn10potato/413235",
 			"modem": "",
-			"bootloader": "",
+			"bootloader": "https://sourceforge.net/projects/risingos-sunny/files/RisingOS_v5.X/RisingOS_5.2.1/vendor_boot.img/download",
 			"recovery": "https://sourceforge.net/projects/risingos-sunny/files/RisingOS_v5.X/RisingOS_5.2.1/boot.img/download",
 			"paypal": "",
 			"telegram": "https://t.me/dpenra",
-			"dt": "",
+			"dt": "https://github.com/dpenra-sunny/device_xiaomi_sunny",
 			"common-dt": "",
 			"kernel": "https://github.com/dpenra-sunny/kernel_xiaomi_sunny"
 		}
