@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "dpenra",
+			"oem": "Xiaomi",
+			"device": "Redmi Note 10",
+			"filename": "RisingOS-5.2.1-FINAL-STABLE-EOL-20241020-CORE-COMMUNITY-sunny-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-sunny/files/RisingOS_v5.X/RisingOS_5.2.1/RisingOS-5.2.1-FINAL-STABLE-EOL-20241020-CORE-COMMUNITY-sunny-ota.zip/download",
+			"timestamp": 1729416900,
+			"md5": "3411798ed3855027cf9b3b21aaa2f030",
+			"sha256": "704f68cafb5d7b98fbc1f8ebaf7fb0ac68a5e97aa4148d94ee580ee7272d8174",
+			"size": 2338930786,
+			"version": "5.2.1-Lyonesse",
+			"buildtype": "FINAL-STABLE-EOL",
+			"forum": "https://t.me/RedmiNote10_Community",
+			"gapps": "",
+			"firmware": "https://t.me/rn10potato/413235",
+			"modem": "",
+			"bootloader": "https://sourceforge.net/projects/risingos-sunny/files/RisingOS_v5.X/RisingOS_5.2.1/vendor_boot.img/download",
+			"recovery": "https://sourceforge.net/projects/risingos-sunny/files/RisingOS_v5.X/RisingOS_5.2.1/boot.img/download",
+			"paypal": "",
+			"telegram": "https://t.me/dpenra",
+			"dt": "https://github.com/dpenra-sunny/device_xiaomi_sunny",
+			"common-dt": "",
+			"kernel": "https://github.com/dpenra-sunny/kernel_xiaomi_sunny"
+		}
+	]
+}
